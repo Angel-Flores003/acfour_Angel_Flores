@@ -5,3 +5,6 @@ https://sites.google.com/itb.cat/entornsprogramacioiprocesos/teoria/t2-fonaments
 
 
 https://github.com/Angel-Flores003/ExercicisProgram/blob/main/EjVeintisiete.cs
+
+
+https://github.com/Angel-Flores003/ExercicisProgram/blob/main/T2.18
